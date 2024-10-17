@@ -1,0 +1,33 @@
+.stepNum{
+    background-color: rgba(217, 220, 224);
+    padding: 4px 12px;
+    border: 1px solid rgb(193, 193, 220);
+    border-radius: 24px;
+}
+
+.active {
+    background-color: rgb(75, 128, 226);
+}
+
+.CareerSteps{
+   
+    width: 350px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid rgb(199, 190, 190);
+    border-radius: 7px;
+    background-color: rgb(247, 241, 233);
+
+}
+.btn{
+    background-color : rgb(86, 86, 237);
+    border: 1px solid black;
+    color: white;
+    border-radius: 16px;
+    min-width: 100px;
+}
+
+
+.message {
+    font-weight: 700;
+}

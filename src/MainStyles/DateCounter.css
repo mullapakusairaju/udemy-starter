@@ -1,0 +1,13 @@
+.StepVal, .countVal{
+    min-width: 120px;
+}
+.btnStep, .btnCounter{
+
+    border-radius: 4px;
+}
+
+.reset-btn{
+    display: flex;
+    justify-content: center;
+   
+}
