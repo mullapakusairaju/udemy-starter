@@ -7,8 +7,10 @@ export default function QuizMain({ question, dispatch, ans, index }) {
   return (
     <div className="container Question">
       <div className="container">
-        <h4 className="question-id">{question.id}:</h4>
-        <h4>{question.question}</h4>
+        <h4 className="question-id">
+          {index + 1}. {question.question}
+        </h4>
+
         <div>
           <Questions
             options={question}
